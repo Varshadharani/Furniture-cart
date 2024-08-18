@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "shopping-cart": "file:.."
+  }
+}
